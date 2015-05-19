@@ -1,0 +1,2 @@
+iset runtimepath+=~/Enviroment/vim/
+runtime! config

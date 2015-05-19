@@ -1,0 +1,5 @@
+" エントリファイル（ここには設定を書かないこと）
+set runtimepath+=~/Enviroment/vim/
+runtime! plugins/*.vim
+runtime! colors/*.vim
+runtime! configs/*.vim
